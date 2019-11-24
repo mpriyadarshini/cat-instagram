@@ -1,6 +1,7 @@
-
 body {
     background: black;
+    margin:0;
+    padding: 0;
 }
 
 .image-container {
@@ -11,4 +12,19 @@ body {
 img {
     max-width: 100%;
     height: auto;
+}
+
+.brand {
+    color: white;
+    display: block;
+    background: #444444;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+header{
+    position: sticky;
+    top:0;
 }
