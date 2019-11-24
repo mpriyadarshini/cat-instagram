@@ -1,0 +1,14 @@
+
+body {
+    background: black;
+}
+
+.image-container {
+    margin: auto;
+    max-width: 640px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
